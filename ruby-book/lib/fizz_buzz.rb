@@ -11,6 +11,4 @@ def fizz_buzz(n)
   end
 end
 
-puts fizz_buzz(15)
-puts "Line 1,
-Line2"
+# puts fizz_buzz(15)
