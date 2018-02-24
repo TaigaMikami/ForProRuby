@@ -15,6 +15,7 @@ class User
 end
 
 # ユーザのデータを作成する
+# << は左辺に右辺のオブジェクトを要素として追加する
 users = []
 users << User.new('Alice', 'Ruby', 20)
 users << User.new('Bob', 'Python', 30)
